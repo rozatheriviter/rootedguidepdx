@@ -1,4 +1,4 @@
-[
+const resources = [
     {
         "category": "Day Services/Hygiene",
         "name": "South Waterfront Park Restrooms",
@@ -5215,4 +5215,4 @@
         "county": "Washington",
         "eligibility": "Low-income; proof of address, photo ID and income required"
     }
-]
+];
